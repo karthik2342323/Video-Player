@@ -1,0 +1,70 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Video_player_1_1</string>
+    <string name="durationformatshort" translatable="false"><xliff:g id="format">%2$d:%3$02d</xliff:g></string>
+    <string name="durationformatlong" translatable="false"><xliff:g id="format">%1$d:%2$02d:%3$02d</xliff:g></string>
+
+    <string name="storage_permission_denied">Permission to access storage was denied!\n We\'re not able to get your videos!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_rename">Rename</string>
+    <string name="action_delete">Delete</string>
+
+    <string name="action_info">Info</string>
+    <string name="action_play">Play</string>
+    <string name="action_play_popup">Play Popup</string>
+    <string name="action_play_background">Background Audio</string>
+    <string name="action_sort">Sort</string>
+    <string name="action_sort_AZ">A-Z</string>
+    <string name="action_sortZA">Z-A</string>
+    <string name="action_sort_size">size</string>
+    <string name="action_sort_total_videos">Total Videos</string>
+    <string name="search_title">Search</string>
+    <string name="action_view_by_list">View by list</string>
+    <string name="action_view_by_grid">View by grid</string>
+    <string name="action_share">Share</string>
+
+    <string name="folder">Folder</string>
+    <string name="sleep_timer">Sleep Timer</string>
+    <string name="about">About</string>
+
+    <string name="confirm_cancel">Cancel</string>
+    <string name="enter_new_name">Enter New Name</string>
+    <string name="confirm_delete">Delete</string>
+    <string name="confirm">are you sure you want to delete </string>
+    <string name="delete_video">Delete Video ?</string>
+    <string name="properties">Properties</string>
+    <string name="file_location">Location</string>
+    <string name="format">Format</string>
+    <string name="file_size">Size</string>
+    <string name="duration">Duration</string>
+    <string name="resolution">Resolution</string>
+    <string name="date_added">Date</string>
+
+    <string name="video">Videos</string>
+    <string name="menu">Menu</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="no_video_playing">No video is played</string>
+    <string name="fileNameExist">This file name is existed :(</string>
+    <string name="ThemeColor">Theme Color</string>
+
+    <string name="third_party_libraries_message" translatable="false">
+
+     <big>
+     <big>
+
+     \t   <big><big>About Developer</big></big> \n \n
+     \t \t \t Developer : Karthik Makwana \n
+    \t \t \t Designer UI/UX: Karthik Makwana  \n
+     \n \n
+     \t <big><big>About App</big></big> \n \n
+      \t \t   This is an simple video player with basic functionality. \n
+      \t \t   Third party api being used eg video player api,UI
+     </big>
+     </big>
+
+
+
+    </string>
+    <string name="banner_test_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ads" translatable="false">ca-app-pub-3863685670972903/1688567871</string>
+    <string name="txt_sleep_app">An extension help turn off music, video is playing on your device, work well with Youtube, Spotify, Google Music and all of music, video app.</string>
+</resources>
